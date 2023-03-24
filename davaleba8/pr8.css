@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: "inter";
+    src: url(Inter.ttf);
+}
+.box1{
+    width: 777px;
+    height: 311px;
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+    margin-top: 78px;
+    margin-left: 41px;
+    padding-top: 63px;
+    padding-left: 23px;
+    display: flex;
+}
+.img1{
+    width: 237.95px;
+    height: 184.57px;
+}      
+.head1{
+    font-family: 'Inter';
+    font-size: 30px;
+    margin-left: 26.05px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.p1{
+    font-family: "inter";
+    font-size: 19px;
+    margin-left: 26.05px;
+    margin-top: 0px;
+    max-width: 468px;
+}
+.a1{
+    display: block;
+    font-size: 20px;
+    font-family: "Inter";
+    margin-left: 390px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: #5076FF;
+}
+hr{
+    width: 1356px;
+    margin-right: 50px;
+}
+.box2{
+    width: 777px;
+    height: 311px;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+    display: flex;
+    float: right;
+    margin-right: 57px;
+}
+.img2{
+    width: 258px;
+    height: 258px;
+}
+.container1{
+    padding-top: 63px;
+}
+.container2{
+    padding-top: 15px;
+}
+.a2{
+    display: block;
+    font-size: 20px;
+    font-family: "Inter";
+    margin-left: 390px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: #5076FF;
+}
